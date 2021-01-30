@@ -1,0 +1,17 @@
+body{
+    background-image: url(/static/css/external-content.duckduckgo.com.jpg);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
